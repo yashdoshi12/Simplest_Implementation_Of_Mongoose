@@ -15,4 +15,4 @@ ProductModel.insertMany([Product_1, Product_2, Product_3], function(err){
     else{console.log("Saved!");}
 });
 
-//New_Product.save().then(() => console.log('Saved!'));
+New_Product.save().then(() => console.log('Saved!')); //Comment Out if you don't wish to have repeated documents
