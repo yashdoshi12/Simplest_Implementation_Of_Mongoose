@@ -1,2 +1,2 @@
 # Simplest_Mongoose_Implementation
-This is worlds most easy implementation of MongoDB using Node!
+This is worlds most easiest implementation of MongoDB using Mongoose!
