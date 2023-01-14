@@ -18,3 +18,7 @@ cd Simplest Implementation Of Mongoose
 ```bash 
 npm i
 ```
+<hr />
+<br />
+
+<div align="center">Don't forget to leave a star ⭐️</div>
