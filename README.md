@@ -4,3 +4,17 @@ This is worlds most simplest implementation of MongoDB using Mongoose!
 
 
 # This repo is made for my future referance. I ususlly get confused by the "cats" and "kitties" in the official website. 
+
+## :octocat: Cloning this repo:
+- [x] Run the following command:
+```bash 
+git clone 'https://github.com/yashdoshi12/Simplest_Implementation_Of_Mongoose-CRUD.git' 
+```
+- [x] `cd` to the cloned folder:
+```bash 
+cd Simplest Implementation Of Mongoose
+```
+- [x] Install required `npm` pakages
+```bash 
+npm i
+```
