@@ -1,5 +1,5 @@
-# Simplest Implementation Of Mongoose
-This is worlds most simplest implementation of MongoDB using Mongoose!
+# Simplest Implementation Of `Mongoose`
+This is worlds most simplest implementation of `MongoDB` using Mongoose!
 ## The implimentation is so simple that it don't even need a README explanation. 
 
 
