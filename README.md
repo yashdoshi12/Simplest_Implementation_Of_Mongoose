@@ -5,7 +5,7 @@ This is worlds most simplest implementation of `MongoDB` using `Mongoose`!
 
 # This repo is made for my future referance. I ususlly get confused by the "cats" and "kitties" in the official website. 
 
-I have named variables as `ItemSchema` and `ItemModel` insead of cats and kitties
+I have named variables as `ItemSchema` and `ItemModel` insead of `cats` and `kitties`
 
 <hr />
 # :octocat: Cloning this repo:
