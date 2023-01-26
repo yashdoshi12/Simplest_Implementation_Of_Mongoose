@@ -8,19 +8,21 @@ This is worlds most simplest implementation of `MongoDB` using `Mongoose`!
 ## I have named variables as `ItemSchema` and `ItemModel` insead of `cats` and `kitties`
 
 <hr />
-# :octocat: Cloning this repo:
+## :octocat: Cloning this repo:
+
 - [x] Run the following command:
-```bash 
-git clone 'https://github.com/yashdoshi12/Simplest_Implementation_Of_Mongoose-CRUD.git' 
-```
+  ```bash 
+  git clone 'https://github.com/yashdoshi12/Simplest_Implementation_Of_Mongoose-CRUD.git' 
+  ```
 - [x] `cd` to the cloned folder:
-```bash 
-cd Simplest Implementation Of Mongoose
-```
+  ```bash 
+  cd Blog_Website_Without_Database
+  ```
 - [x] Install required `npm` pakages
-```bash 
-npm i
-```
+  ```bash 
+  npm i
+  ```
+
 <hr />
 <br />
 
