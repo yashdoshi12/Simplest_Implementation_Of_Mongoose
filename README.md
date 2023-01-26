@@ -8,6 +8,7 @@ This is worlds most simplest implementation of `MongoDB` using `Mongoose`!
 ## I have named variables as `ItemSchema` and `ItemModel` insead of `cats` and `kitties`
 
 <hr />
+
 ## :octocat: Cloning this repo:
 
 - [x] Run the following command:
