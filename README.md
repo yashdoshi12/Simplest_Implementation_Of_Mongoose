@@ -1,7 +1,10 @@
 # Simplest Implementation Of `Mongoose`
 - [x] <b>This is worlds most simplest implementation of `MongoDB` using `Mongoose`!</b>
+
 - [x] The implimentation is so simple that it don't even need a `README` explanation. 
+
 - [x] This repo is made for my future referance. I ususlly get confused by the "cats" and "kitties" in the official website. 
+
 - [x] I have named variables as `ItemSchema` and `ItemModel` insead of `cats` and `kitties`
 
 <hr />
